@@ -1,0 +1,108 @@
+
+#footer {
+    padding-top:410px;
+    height: 20px;;
+}
+#entete{
+display: flex;
+justify-content:flex-end;
+flex-direction: row;
+align-items:center;
+}  
+.item {
+    width: 30px;
+    height: 60px;
+    margin-left:35px;
+    
+}
+.item2{
+    width: 30px;
+    height: 60px;
+    margin: 20px;
+    margin-left: 20px;
+    margin-top:10px;
+}
+
+#ImgGoogle{
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 0px;
+}
+
+.BarreRecherche{
+    
+    margin-top: 25px;
+    margin-left: 655px;
+    height: 42px;
+    width: 540px;
+    border-radius: 50px;
+    border-width: 1px;
+    border-color: #e6e6e6;
+    border-style: solid;
+    outline-style: none;
+    padding-left: 50px;
+    background:url(loupe.png) no-repeat; 
+    background-position: left;
+    background-position-x: 12px;
+}
+
+.BtnNav{
+display: flex;
+justify-content:center;
+flex-direction: row;
+margin-top: 40px;
+height: 60px;
+
+}
+
+#barrenav{
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #e6e6e6;
+
+}
+.barrebas{
+    text-decoration: none;
+height: 35px;
+background-color: #e6e6e6;
+border-color: grey;
+border-width: 3px;
+display: flex;
+justify-content:flex-start;
+}
+
+
+#barrebas2{
+    text-decoration: none;
+    background-color: #e6e6e6;
+    border-width: 3px;
+    text-align: center;
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: row;
+    align-items: flex-end;
+    }
+#barrebas22{
+    text-decoration: none;
+    background-color: #e6e6e6;
+    border-width: 3px;
+    text-align: center;
+    height: 35px;
+    display: flex;
+    justify-content:flex-end;
+    flex-direction: row;
+    align-items: flex-end;
+    }
+
+.Nav2{
+text-decoration: none;
+padding-right: 30px;
+}
+.Nav22{
+    text-decoration: none;
+    padding-right: 30px;
+    }
